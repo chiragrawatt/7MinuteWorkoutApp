@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">7MinuteWorkoutApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image">image</string>
+    <string name="start_btn">START</string>
+    <string name="get_ready_for">GET READY FOR</string>
+    <string name="upcoming_exercise">UPCOMING EXERCISE:</string>
+</resources>
